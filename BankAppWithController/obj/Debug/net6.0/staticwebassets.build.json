@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "tdkPS3+Rlt8hkob/5bqDyvvfHM4+znI/oviVmygim3E=",
+  "Source": "BankAppWithController",
+  "BasePath": "_content/BankAppWithController",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "BankAppWithController\\wwwroot",
+      "Source": "BankAppWithController",
+      "ContentRoot": "C:\\Users\\nhuyn\\source\\repos\\AspCoreWeb\\BankAppWithController\\BankAppWithController\\wwwroot\\",
+      "BasePath": "_content/BankAppWithController",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\nhuyn\\source\\repos\\AspCoreWeb\\BankAppWithController\\BankAppWithController\\wwwroot\\dummy_acc_summary.pdf",
+      "SourceId": "BankAppWithController",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\nhuyn\\source\\repos\\AspCoreWeb\\BankAppWithController\\BankAppWithController\\wwwroot\\",
+      "BasePath": "_content/BankAppWithController",
+      "RelativePath": "dummy_acc_summary.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\dummy_acc_summary.pdf"
+    }
+  ]
+}

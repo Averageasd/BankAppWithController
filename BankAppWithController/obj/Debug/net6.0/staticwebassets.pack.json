@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\nhuyn\\source\\repos\\AspCoreWeb\\BankAppWithController\\BankAppWithController\\wwwroot\\dummy_acc_summary.pdf",
+      "PackagePath": "staticwebassets\\dummy_acc_summary.pdf"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.BankAppWithController.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.BankAppWithController.props",
+      "PackagePath": "build\\BankAppWithController.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.BankAppWithController.props",
+      "PackagePath": "buildMultiTargeting\\BankAppWithController.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.BankAppWithController.props",
+      "PackagePath": "buildTransitive\\BankAppWithController.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
